@@ -1,2 +1,3 @@
+--upgrade pip
 pyTelegramBotAPI
 git+https://github.com/xtekky/gpt4free.git
